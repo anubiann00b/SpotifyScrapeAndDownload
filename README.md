@@ -13,8 +13,8 @@ check if spot2mp3.sh, ytlikely.sh and spotify-scrape.pl are in the same folder
 install youtube-dl: sudo apt-get install youtube-dl
 
 Example call:
-sh ./spot2mp3.sh 'spotify:track:1iNeZGJsoC0D7ZyJTdIbDS' 'DaftPunkTechnoLogic'
-sh ./spot2mp3.sh 'spotify-uri' 'foldername'
+`sh ./spot2mp3.sh 'spotify:track:1iNeZGJsoC0D7ZyJTdIbDS' 'DaftPunkTechnoLogic'`
+`sh ./spot2mp3.sh 'spotify-uri' 'foldername'`
 
 special thanks to: Jonathan Spruytte - http://twitter.com/spruyttej
 
